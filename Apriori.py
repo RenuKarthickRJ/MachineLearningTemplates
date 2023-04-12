@@ -42,3 +42,4 @@ results = list(rules)
 #Make sure to print it using a for loop for better readability
 for result in results:
   print(result)
+#The above will be better to read
